@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Danish-588
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Danish Tapia</h1>
+<h2 align="center"></h2>
 
-<!---
-Danish-588/Danish-588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+&nbsp;
+&nbsp;
+
+### About Me: 🙋‍♂️
+- 🎓 I’m currently Studying In **MIT World Peace University**
+
+- 🌱 I’m currently learning **Robotic Operating System**
+
+- 💭 Ask me anything about **Embedded Systems**
+
+- 📫 How to reach me **danish.tapia588@gmail.com**
+
+
+
